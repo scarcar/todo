@@ -1,17 +1,18 @@
 1) GE Analytics Certificate - Write Report
     - writing methods section (20% done)
-    
-2) Github udacity class
-    - on Lesson 3 (80% done)
-    
-3) Writing Class udacity class
+       
+2) Writing Class udacity class
     - starting week 1 (10% done)
 
-4) Novel (Girl with Dragon Tatoo)
+3) Novel (Girl with Dragon Tatoo)
     - page 238 of 500  (ch13)
     
-5) Duolingo (French)
+4) Duolingo (French)
     - 32 Gold, 3 day steak
     
 
 
+Done:
+2) Github udacity class
+    - on Lesson 3 (80% done)
+    - done (3/20/2017)
