@@ -5,10 +5,10 @@
     - starting lecture 1.3  (3/23/2017)
 
 3) Novel (Girl with Dragon Tatoo)
-    - page 311 of 590  (ch17)
+    - page 346 of 590  (ch19)
     
 4) Duolingo (French)
-    - 32 Gold, 6 day steak
+    - 32 Gold, 8 day steak
 
 5) Intro to Machine Learning (Udacity)
    
@@ -18,3 +18,10 @@ Done:
 2) Github udacity class
     - on Lesson 3 (80% done)
     - done (3/20/2017)
+
+
+Books: 
+- Lynne Truss's "Eat, Shoots and Leaves" for punctuation
+- python for data analysis
+- Style Toward Clarity and Grace
+- Algorithms book
