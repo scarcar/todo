@@ -1,7 +1,5 @@
 1) GE Analytics Certificate - Peer Review
 
-1) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) page 135 of 167
-
 2) Cold Mountain (Novel) - page 126
        
 3) Write 101x English Grammar and Style
@@ -24,6 +22,9 @@ Done:
 
 4) GE Analytics Certificate - Write Report 4/27/2017
     
+5) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) (5/8/2017)
+
+
 
 Books: 
 - python for data analysis
