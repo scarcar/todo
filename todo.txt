@@ -13,14 +13,13 @@
 
 
 Done:
-1) Github udacity class
-    - done (3/20/2017)
+1) Github udacity class  (3/20/2017)
     
 2) Lynne Truss's "Eat, Shoots and Leaves" for punctuation (3/24/2017)
 
-3) Novel (Girl with Dragon Tatoo) 4/5/2017
+3) Girl with Dragon Tatoo (novel) (4/5/2017)
 
-4) GE Analytics Certificate - Write Report 4/27/2017
+4) GE Analytics Certificate - Write Report (4/27/2017)
     
 5) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) (5/8/2017)
 
