@@ -1,8 +1,9 @@
-1) GE Analytics Certificate - Write Report
-    - writing methods section - exploratory data 
+1) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) page 135 of 167
+
+2) Cold Mountain (Novel) - page 126
        
-2) Writing Class udacity class
-    - starting lecture 3.1  
+2) Write 101x English Grammar and Style
+    - starting Week 4
     
 4) Duolingo (French)
     - 10 day steak
@@ -19,9 +20,10 @@ Done:
 
 3) Novel (Girl with Dragon Tatoo) 4/5/2017
 
-
+4) GE Analytics Certificate - Write Report 4/27/2017
+    
 
 Books: 
 - python for data analysis
 - Style Toward Clarity and Grace
-- Algorithms book
+- Algorithms in C (Robert Sedgewick, 1990)
