@@ -1,15 +1,10 @@
-1) GE Analytics Certificate - Peer Review
-
-2) Cold Mountain (Novel) - page 126
+1) Expert C Programming - Deep C Secrets
        
-3) Write 101x English Grammar and Style
-    - starting Week 4
-    
 4) Duolingo (French)
-    - 10 day steak
 
 5) Intro to Machine Learning (Udacity)
-   
+
+6) Worth Dying For, Lee Child
 
 
 Done:
@@ -23,9 +18,17 @@ Done:
     
 5) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) (5/8/2017)
 
+6) Cold Mountain (Novel) - page 250
+
+1) GE Analytics Certificate (6/10/2017)
 
 
+Future:
 Books: 
 - python for data analysis
 - Style Toward Clarity and Grace
 - Algorithms in C (Robert Sedgewick, 1990)
+- The C Programming Language - K&R C
+
+3) Write 101x English Grammar and Style
+    - starting Week 4
