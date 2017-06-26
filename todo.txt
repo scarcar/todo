@@ -20,14 +20,14 @@ Done:
 
 6) Cold Mountain (Novel) - page 250
 
-1) GE Analytics Certificate (6/10/2017)
+7) GE Analytics Certificate (6/10/2017)
 
 
 Future:
 Books: 
 - python for data analysis
 - Style Toward Clarity and Grace
-- Algorithms in C (Robert Sedgewick, 1990)
+- Algorithms in C (Robert Sedgewick, 1990) (starting chapter 2)
 - The C Programming Language - K&R C
 
 3) Write 101x English Grammar and Style
