@@ -1,10 +1,10 @@
-1) Expert C Programming - Deep C Secrets
+1) Expert C Programming - Deep C Secrets (page 48)
        
 4) Duolingo (French)
 
 5) Intro to Machine Learning (Udacity)
 
-6) Worth Dying For, Lee Child
+6) Worth Dying For, Lee Child (page 73)
 
 
 Done:
