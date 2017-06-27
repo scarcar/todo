@@ -1,4 +1,4 @@
-1) Expert C Programming - Deep C Secrets (page 61)
+1) Expert C Programming - Deep C Secrets (page 67 - A word about unions)
        
 4) Duolingo (French)
 
