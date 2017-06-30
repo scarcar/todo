@@ -1,4 +1,4 @@
-1) Expert C Programming - Deep C Secrets (page 78 - Piece of code that understandeth all parsing)
+1) Expert C Programming - Deep C Secrets (page 86 - Chapter 4)
        
 2) Duolingo (French)
 
