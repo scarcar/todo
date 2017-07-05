@@ -1,4 +1,4 @@
-1) Expert C Programming - Deep C Secrets (page 109 - Chapter 5 - Watch Out for Interpositioning)
+1) Expert C Programming - Deep C Secrets (page 119 - Chapter 6)
        
 2) Duolingo (French)
 
