@@ -1,4 +1,4 @@
-1) Expert C Programming - Deep C Secrets (page 141 - Chapter 7)
+1) Expert C Programming - Deep C Secrets (page 148 - Chapter 7 - Handy Heuristic)
        
 2) Duolingo (French)
 
