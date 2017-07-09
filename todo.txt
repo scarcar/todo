@@ -1,10 +1,10 @@
-1) Expert C Programming - Deep C Secrets (page 178 - Chapter 8)
+1) Expert C Programming - Deep C Secrets (page 205 - Chapter 9)
        
-2) Duolingo (French - 19 days)
+2) Duolingo (French - 20 days)
 
 3) Intro to Machine Learning (Udacity)
 
-4) Worth Dying For, Lee Child (page 250)
+4) Worth Dying For, Lee Child (page 265)
 
 
 Done:
