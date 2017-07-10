@@ -1,4 +1,4 @@
-1) Expert C Programming - Deep C Secrets (page 231 - Chapter 10 - Passing a 1D array to a function)
+1) Expert C Programming - Deep C Secrets (page 246 - Chapter 11)
        
 2) Duolingo (French - 20 days)
 
