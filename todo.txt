@@ -1,4 +1,4 @@
-1) Expert C Programming - Deep C Secrets (page 255; Constructors and Desctructors - Chapter 11)
+1) Expert C Programming - Deep C Secrets (page 260 - Chapter 11)
        
 2) Duolingo (French - 21 days)
 
