@@ -25,7 +25,7 @@ Done:
 
 Future:
 
-1) Visual Studio Express
+1) Visual Studio
 
 Books: 
 - python for data analysis
