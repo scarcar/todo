@@ -1,8 +1,11 @@
-1) Expert C Programming - Deep C Secrets (page 260 - Chapter 11)
-       
-2) Duolingo (French - 21 days)
 
-3) Worth Dying For, Lee Child (page 275)
+1) Style Toward Clarity and Grace (ebook)
+
+2) Worth Dying For, Lee Child (page 290)
+
+3) Duolingo (French - 21 days)
+
+
 
 
 Done:
@@ -20,12 +23,11 @@ Done:
 
 7) GE Analytics Certificate (6/10/2017)
 
+8) Expert C Programming - Deep C Secrets (290 pages) (7/12/2017)
 
 Future:
 
 1) Visual Studio (find a book/tutorial)
-
-2) Style Toward Clarity and Grace (ebook)
 
 3) python for data analysis (ebook)
 
