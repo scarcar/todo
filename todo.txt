@@ -2,9 +2,7 @@
        
 2) Duolingo (French - 21 days)
 
-3) Intro to Machine Learning (Udacity)
-
-4) Worth Dying For, Lee Child (page 275)
+3) Worth Dying For, Lee Child (page 275)
 
 
 Done:
@@ -25,18 +23,24 @@ Done:
 
 Future:
 
-1) Visual Studio
+1) Visual Studio (find a book/tutorial)
 
+2) Style Toward Clarity and Grace (ebook)
+
+3) python for data analysis (ebook)
+
+4) Intro to Machine Learning (Udacity) 
+
+
+Others:
 Books: 
-- python for data analysis
-- Style Toward Clarity and Grace
 - Algorithms in C (Robert Sedgewick, 1990) (starting chapter 2)
 - The C Programming Language - K&R C
 
-3) Write 101x English Grammar and Style
+- Write 101x English Grammar and Style
     - starting Week 4
     
-    
 - Cyber security
+    
     
     
