@@ -24,6 +24,9 @@ Done:
 
 
 Future:
+
+1) Visual Studio Express
+
 Books: 
 - python for data analysis
 - Style Toward Clarity and Grace
@@ -32,3 +35,5 @@ Books:
 
 3) Write 101x English Grammar and Style
     - starting Week 4
+    
+    
