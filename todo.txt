@@ -1,10 +1,11 @@
 
 1) Style Toward Clarity and Grace (ebook) - Chapter 1 page 14
 
-2) Worth Dying For, Lee Child (page 289)
+2) Worth Dying For, Lee Child (page 296)
 
 3) Duolingo (French - 23 days)
 
+4) Visual Studio (find a book/tutorial)
 
 
 
@@ -29,12 +30,12 @@ Done:
 
 Future:
 
-1) Visual Studio (find a book/tutorial)
 
 3) python for data analysis (ebook)
 
 4) Intro to Machine Learning (Udacity) 
 
+5) Lab View
 
 Others:
 Books: 
