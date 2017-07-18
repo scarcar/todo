@@ -1,31 +1,22 @@
 
-1) Style Toward Clarity and Grace (ebook) - Chapter 2 page 30
+1) Style Toward Clarity and Grace (ebook) - Chapter 2 page 40 (subjects & characters)
 
 2) Duolingo (French - 27 days)
 
-3) Visual Studio (find a book/tutorial)
+3) Visual Studio (installed, tutorial)
 
 
 
 Done:
-1) Github udacity class  (3/20/2017)
-    
+1) Github udacity class  (3/20/2017)  
 2) Lynne Truss's "Eat, Shoots and Leaves" for punctuation (3/24/2017)
-
 3) Girl with Dragon Tatoo (novel) (4/5/2017)
-
 4) GE Analytics Certificate - Write Report (4/27/2017)
-    
 5) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) (5/8/2017)
-
 6) Cold Mountain (Novel) - page 250/400 - done (5/25/2017)
-
 7) GE Analytics Certificate (6/10/2017)
-
 8) Expert C Programming - Deep C Secrets (290 pages) (7/12/2017)
-
 9) completed 1 cycle of Duolingo French (7/13/2017)
-
 10) Worth Dying For, Lee Child (page 384)
 
 
@@ -33,9 +24,7 @@ Future:
 
 
 3) python for data analysis (ebook)
-
 4) Intro to Machine Learning (Udacity) 
-
 5) Lab View
 
 Others:
@@ -47,6 +36,9 @@ Books:
     - starting Week 4
     
 - Cyber security
-    
+
+- ruby for rails 
+- android programming
+- web pages
     
     
