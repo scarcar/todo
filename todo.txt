@@ -3,7 +3,7 @@
 
 2) Duolingo (French - 33 days)
 
-3) python for data analysis (ebook, chapter 2 (page 42))
+3) python for data analysis {ebook, chapter 2 [page 48 (32)]}
 
 4) Evidence, Jonathan Kellerman(page 54)
 
