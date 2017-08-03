@@ -3,7 +3,7 @@
 
 2) Duolingo (French - day 45) 
 
-3) python for data analysis {ebook, chapter 8 [page 240 (224)]}
+3) python for data analysis {ebook, chapter 9 [page 267 (251)]}
 
 4) Evidence, Jonathan Kellerman(page 120)
 
