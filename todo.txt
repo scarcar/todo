@@ -1,9 +1,7 @@
 
 1) Style Toward Clarity and Grace (ebook) - Chapter 9 page 166 (Elegance)
 
-2) Duolingo (French - day 45) 
-
-3) python for data analysis {ebook, chapter 9 [page 267 (251)]}
+2) Duolingo (French - day 47) 
 
 4) Evidence, Jonathan Kellerman(page 120)
 
@@ -21,10 +19,12 @@ Done:
 9) completed 1 cycle of Duolingo French (7/13/2017)
 10) Worth Dying For, Lee Child (page 384) (7/16/2017)
 11) Visual Studio (installed, simple tutorial) (7/18/2017)
+12) python for data analysis (280 pages) (8/6/2017)
 
 
 Future:
 
+- Visual Studio Advance    
 
 4) Intro to Machine Learning (Udacity) 
 5) Lab View
@@ -42,5 +42,4 @@ Books:
 - ruby for rails 
 - android programming
 - web pages
-- Visual Studio Advance    
     
