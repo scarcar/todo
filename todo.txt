@@ -1,9 +1,9 @@
 
-1) Style Toward Clarity and Grace (ebook) - Chapter 10 page 193 (Real Rules)
+1) Visual Studio Tutorial (Find a good one)
 
-2) Duolingo (French - day 49) 
+2) Duolingo (French - day 1) 
 
-4) Evidence, Jonathan Kellerman(page 120)
+4) Evidence, Jonathan Kellerman(page 168)
 
 
 
@@ -20,6 +20,7 @@ Done:
 10) Worth Dying For, Lee Child (page 384) (7/16/2017)
 11) Visual Studio (installed, simple tutorial) (7/18/2017)
 12) python for data analysis (280 pages) (8/6/2017)
+13) Style Toward Clarity and Grace (ebook) (219 pages) (8/9/2017)
 
 
 Future:
