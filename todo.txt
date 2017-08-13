@@ -1,5 +1,5 @@
 
-1) Visual Studio Tutorial (Find a good one)
+1) Teach yourself Visual Basic in 24hrs 
 
 2) Duolingo (French - day 4) 
 
@@ -25,7 +25,6 @@ Done:
 
 Future:
 
-- Visual Studio Advance    
 
 4) Intro to Machine Learning (Udacity) 
 5) Lab View
