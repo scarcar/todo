@@ -1,5 +1,5 @@
 
-1) Teach yourself Visual Basic in 24hrs (ch2 pg 45 - managing project files)
+1) Teach yourself Visual Basic in 24hrs (ch3 pg 57 - Understanding Objects and Collections)
 
 2) Duolingo (French - day 7) 
 
