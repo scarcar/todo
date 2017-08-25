@@ -42,4 +42,14 @@ Books:
 - ruby for rails 
 - android programming
 - web pages
+
+investing books:
+“The Intelligent Investor,” by Ben Graham, 1949
+“The Millionaire Next Door” by Tom Stanley, 1996
+“The Essays Of Warren Buffett: Lessons For Corporate America” by Warren Buffett and Lawrence Cunningham, 2001
+“Common Sense on Mutual Funds” by John Bogle, 1999
+
+
+
+
     
