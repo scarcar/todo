@@ -25,6 +25,11 @@ Done:
 
 Future:
 
+- C++
+- XML - understand, create a parser in C
+- Java
+- Ruby on Rails
+
 
 4) Intro to Machine Learning (Udacity) 
 5) Lab View
