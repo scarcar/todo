@@ -3,7 +3,6 @@
 
 2) Duolingo (French - day 24) 
 
-3) Evidence, Jonathan Kellerman(page 314)
 
 
 
@@ -21,6 +20,8 @@ Done:
 11) Visual Studio (installed, simple tutorial) (7/18/2017)
 12) python for data analysis (280 pages) (8/6/2017)
 13) Style Toward Clarity and Grace (ebook) (219 pages) (8/9/2017)
+14) Evidence, Jonathan Kellerman(page 355) (9/4/2017)
+
 
 
 Future:
