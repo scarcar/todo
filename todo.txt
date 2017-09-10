@@ -2,6 +2,8 @@
 
 2) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 33)
 
+3) Teach yourself C++ in 21 days
+
 
 
 
@@ -31,11 +33,10 @@ Done:
 
 Future:
 
-- C++
+- Linux administrator/ linux expert
 - XML - understand, create a parser in C
 - Java
 - Ruby on Rails
-- Linux administrator/ linux expert
 - autocad
 
 
