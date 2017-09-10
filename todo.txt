@@ -30,6 +30,8 @@ Future:
 - XML - understand, create a parser in C
 - Java
 - Ruby on Rails
+- Linux administrator/ linux expert
+- autocad
 
 
 4) Intro to Machine Learning (Udacity) 
