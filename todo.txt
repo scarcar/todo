@@ -33,7 +33,9 @@ Done:
 
 
 Future:
-
+- C#
+- Java
+- Angular
 - Linux administrator/ linux expert
 - XML - understand, create a parser in C
 - Java
