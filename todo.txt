@@ -12,23 +12,22 @@
 
 
 Done:
-1) Github udacity class  (3/20/2017)  
-2) Lynne Truss's "Eat, Shoots and Leaves" for punctuation (3/24/2017)
-3) Girl with Dragon Tatoo (novel) (4/5/2017)
-4) GE Analytics Certificate - Write Report (4/27/2017)
-5) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) (5/8/2017)
-6) Cold Mountain (Novel) - page 250/400 - done (5/25/2017)
-7) GE Analytics Certificate (6/10/2017)
-8) Expert C Programming - Deep C Secrets (290 pages) (7/12/2017)
-9) completed 1 cycle of Duolingo French (7/13/2017)
-10) Worth Dying For, Lee Child (page 384) (7/16/2017)
-11) Visual Studio (installed, simple tutorial) (7/18/2017)
-12) python for data analysis (280 pages) (8/6/2017)
-13) Style Toward Clarity and Grace (ebook) (219 pages) (8/9/2017)
-14) Evidence, Jonathan Kellerman(page 355) (9/4/2017)
-15) Teach yourself Visual Basic in 24hrs (ch19 - page 409)  (9/10/2017)
 16) Duolingo (1.5 cycles)
-
+15) Teach yourself Visual Basic in 24hrs (ch19 - page 409)  (9/10/2017)
+14) Evidence, Jonathan Kellerman(page 355) (9/4/2017)
+13) Style Toward Clarity and Grace (ebook) (219 pages) (8/9/2017)
+12) python for data analysis (280 pages) (8/6/2017)
+11) Visual Studio (installed, simple tutorial) (7/18/2017)
+10) Worth Dying For, Lee Child (page 384) (7/16/2017)
+9) completed 1 cycle of Duolingo French (7/13/2017)
+8) Expert C Programming - Deep C Secrets (290 pages) (7/12/2017)
+7) GE Analytics Certificate (6/10/2017)
+6) Cold Mountain (Novel) - page 250/400 - done (5/25/2017)
+5) C Programming: Data Structures and Algorithms (by Jack Straub, 2006 V2.07) (5/8/2017)
+4) GE Analytics Certificate - Write Report (4/27/2017)
+3) Girl with Dragon Tatoo (novel) (4/5/2017)
+2) Lynne Truss's "Eat, Shoots and Leaves" for punctuation (3/24/2017)
+1) Github udacity class  (3/20/2017)  
 
 
 
