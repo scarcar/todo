@@ -2,7 +2,7 @@
 
 2) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 248)
 
-3) Teach yourself C++ in 21 days  (Day 14 - page 449)
+3) Teach yourself C++ in 21 days  (Day 15 - page 505)
 
 
 
