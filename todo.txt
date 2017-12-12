@@ -1,7 +1,6 @@
 1) French youtube video: learn french with Vincent #day 2 (6:20:45) (min 2:02:49)
 
 
-3) Teach yourself C++ in 21 days  (Day 19 - page 665)
 
 
 
@@ -11,7 +10,8 @@
 
 
 Done:
-18) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 310)   (11/24/2017)
+19) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 310)   (11/24/2017)
+18) Teach yourself C++ in 21 days  (pages 700) (11/22/2017)
 17) French youtube video: learn french with Vincent #day 1 min 4:44:54 (11/11/2017)
 16) Duolingo (1.5 cycles)
 15) Teach yourself Visual Basic in 24hrs (ch19 - page 409)  (9/10/2017)
