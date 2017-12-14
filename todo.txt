@@ -1,5 +1,9 @@
 1) French youtube video: learn french with Vincent #day 2 (6:20:45) (min 2:02:49)
 
+2) Salesforce (https://trailhead.salesforce.com/en/home) 
+      - 2 Badges, 400 Points
+
+
 Done:
 19) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 310)   (11/24/2017)
 18) Teach yourself C++ in 21 days  (pages 700) (11/22/2017)
@@ -25,7 +29,6 @@ Done:
 
 Future:
 - C++ Unleashed from Sams Publishing
-- Salesforce (https://trailhead.salesforce.com/en/home)
 - C#
 - Java
 - Angular
