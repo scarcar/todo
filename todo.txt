@@ -37,6 +37,7 @@ Future:
 - C++ Unleashed from Sams Publishing
 - C#
 - Java
+- Embedded Linux
 - Angular
 - Linux administrator/ linux expert
 - XML - understand, create a parser in C
