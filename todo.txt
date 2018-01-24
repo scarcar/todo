@@ -35,9 +35,9 @@ Future:
 - PHP
 - CSS
 - C++ Unleashed from Sams Publishing
+- Embedded Linux
 - C#
 - Java
-- Embedded Linux
 - Angular
 - Linux administrator/ linux expert
 - XML - understand, create a parser in C
