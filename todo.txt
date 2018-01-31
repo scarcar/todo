@@ -1,6 +1,8 @@
 1) Teach Yourself JavaScript in 24 Hours Sams (pg 173 - Hour 11)
 
-2) French youtube video: learn french with Vincent #day 2 (6:20:45) (min 2:30:49)
+2) Hackerrank: 96 points
+
+3) French youtube video: learn french with Vincent #day 2 (6:20:45) (min 2:30:49)
 
 3) Salesforce (https://trailhead.salesforce.com/en/home) 
       - 29 Badges, 34450 Points
