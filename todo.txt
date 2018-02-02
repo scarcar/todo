@@ -1,4 +1,4 @@
-1) Teach Yourself JavaScript in 24 Hours Sams (pg 207 - Hour 13)
+1) Teach Yourself JavaScript in 24 Hours Sams (pg 219 - Hour 14)
 
 2) Hackerrank: 206 points, 206926 rank
 
