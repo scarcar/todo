@@ -1,6 +1,6 @@
 1) Teach Yourself JavaScript in 24 Hours Sams (pg 219 - Hour 14)
 
-2) Hackerrank: 2453.27 points, 6296 rank 
+2) Hackerrank: 2558 points, 5609 rank 
 
 3) Salesforce (https://trailhead.salesforce.com/en/home) 
       - 29 Badges, 34450 Points
