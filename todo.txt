@@ -1,4 +1,5 @@
-1) Teach Yourself JavaScript in 24 Hours Sams (pg 219 - Hour 14)
+
+1) CS50 - intro to computer science (week 9)
 
 2) Hackerrank: 2558 points, 5609 rank 
 
@@ -12,6 +13,7 @@
 
 
 Done:
+20) Teach Yourself JavaScript in 24 Hours Sams (pg 219 - Hour 14)  (3/30/2018)
 19) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 310)   (11/24/2017)
 18) Teach yourself C++ in 21 days  (pages 700) (11/22/2017)
 17) French youtube video: learn french with Vincent #day 1 min 4:44:54 (11/11/2017)
