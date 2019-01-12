@@ -1,5 +1,4 @@
-
-1) CS50 - intro to computer science (week 9)
+1) Link Kernel Development (28 of 468)
 
 2) Hackerrank: 2558 points, 5609 rank 
 
@@ -13,6 +12,10 @@
 
 
 Done:
+CS50 - intro to computer science (week 9) (12/31/2018)
+
+
+
 20) Teach Yourself JavaScript in 24 Hours Sams (pg 219 - Hour 14)  (3/30/2018)
 19) SSN - Strategies of Sumarine Warfare (Tom Clancy) (pg 310)   (11/24/2017)
 18) Teach yourself C++ in 21 days  (pages 700) (11/22/2017)
