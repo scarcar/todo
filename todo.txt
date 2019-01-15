@@ -1,4 +1,4 @@
-1) Link Kernel Development (33, 60 of 468)
+1) Link Kernel Development (Ch4: 41, 68 of 468)
 
 2) Hackerrank: 2558 points, 5609 rank 
 
