@@ -1,4 +1,4 @@
-1) Link Kernel Development (Ch4: 41, 68 of 468)
+1) Linux Programming Interface 
 
 2) Hackerrank: 2558 points, 5609 rank 
 
@@ -12,6 +12,7 @@
 
 
 Done:
+1) Link Kernel Development (Ch4: 41, 68 of 468) (1/28/2018)
 CS50 - intro to computer science (week 9) (12/31/2018)
 
 
