@@ -1,4 +1,4 @@
-1) Linux Programming Interface (2.4, page 27)
+1) Linux Programming Interface (2.5, page 29)
 
 2) Hackerrank: 2558 points, 5609 rank 
 
