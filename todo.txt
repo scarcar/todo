@@ -1,13 +1,5 @@
-1) Linux Programming Interface (3, page 43)
+1) Never Go Back: A Jack Reacher Novel
 
-2) Hackerrank: 2558 points, 5609 rank 
-
-3) Salesforce (https://trailhead.salesforce.com/en/home) 
-      - 29 Badges, 34450 Points
-      
-4) Never Go Back: A Jack Reacher Novel
-
-5) French youtube video: learn french with Vincent #day 2 (6:20:45) (min 2:47:02)
 
 
 
@@ -17,6 +9,10 @@ Done:
 1) Link Command Line edx course (3/18/2019)
 2) Link Kernel Development (Ch4: 41, 68 of 468) (1/28/2018)
 3) CS50 - intro to computer science (week 9) (12/31/2018)
+4) Salesforce (https://trailhead.salesforce.com/en/home) - 29 Badges, 34450 Points
+5) French youtube video: learn french with Vincent #day 2 (6:20:45) (min 2:47:02)
+6) Hackerrank: 2558 points, 5609 rank 
+7) Linux Programming Interface (3, page 43)
 
 
 
