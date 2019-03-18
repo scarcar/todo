@@ -12,8 +12,11 @@
 
 
 Done:
-1) Link Kernel Development (Ch4: 41, 68 of 468) (1/28/2018)
-CS50 - intro to computer science (week 9) (12/31/2018)
+
+
+1) Link Command Line edx course (3/18/2019)
+2) Link Kernel Development (Ch4: 41, 68 of 468) (1/28/2018)
+3) CS50 - intro to computer science (week 9) (12/31/2018)
 
 
 
