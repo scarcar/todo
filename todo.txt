@@ -1,4 +1,5 @@
-1) Never Go Back: A Jack Reacher Novel
+1) Fluent Forever (page 47)
+
 
 2) CS50W - Web Programming
 
@@ -6,6 +7,7 @@
 
 
 Done:
+1) Never Go Back: A Jack Reacher Novel
 
 
 1) Link Command Line edx course (3/18/2019)
